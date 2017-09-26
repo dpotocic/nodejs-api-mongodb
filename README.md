@@ -1,11 +1,11 @@
 # NodeJs API with MongoDB
 
 [![NodeJS](https://img.shields.io/badge/Powered_by-NodeJS-green.svg?style=flat)](https://nodejs.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-green.svg?style=flat)](https://www.mongodb.com)
+[![MongoDB](https://img.shields.io/badge/Powered_by-MongoDB-green.svg?style=flat)](https://www.mongodb.com)
 
 ## Requirements
 
-* [NodeJS 8.6](https://nodejs.org/en/download/)
+* [NodeJS 6.1](https://nodejs.org/en/download/)
 * [MongoDB 3.4](https://www.mongodb.com/download-center#community)
 
 
