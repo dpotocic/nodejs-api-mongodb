@@ -15,7 +15,6 @@ module.exports = function(app, db) {
 
     app.post('/books', (req, res) => {
         const book = { isbn: req.body.isbn, title: req.body.title };
-console.log(book);
         db.collection('books').insert(book, (err, result) => {
             if (err) {
                 res.send({ 'error': 'An error has occurred' });
